@@ -19,7 +19,7 @@
     { file: 'photo10.jpg', month: 10, title: 'Ten months, one favourite person',       caption: 'Here\u2019s to every month after this one.' },
   ];
 
-  const SITE_URL = 'https://me-and-my-bhondu.vercel.app/';
+  const SITE_URL = 'const SITE_URL = 'https://nikhilamin2.github.io/Bhondu-And-meri-Anniversary/';
 
   /* ============================================================
      AMBIENT: floating hearts field
