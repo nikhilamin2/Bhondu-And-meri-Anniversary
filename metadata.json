@@ -1,0 +1,6 @@
+{
+  "name": "Happy 10 Months - Our Romantic Journey",
+  "description": "A romantic 10-month anniversary website and interactive photo journey for my love, featuring our cherished memories, romantic messages, background music, and a QR code to share.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
