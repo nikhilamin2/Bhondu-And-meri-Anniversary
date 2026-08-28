@@ -7,16 +7,16 @@
      must stay photo1.jpg ... photo10.jpg to match /images/.
      ============================================================ */
   const PHOTOS = [
-    { file: 'photo1.jpg',  month: 1,  title: 'Where it started to feel like forever', caption: 'That close, that easy, that us.' },
-    { file: 'photo2.jpg',  month: 2,  title: 'Golden hour, wrapped up in you',        caption: 'Your arm around me and the whole sky on fire.' },
-    { file: 'photo3.jpg',  month: 3,  title: 'Splashing, sulking, still adorable',     caption: 'A whole pool day and you were still the best part of it.' },
-    { file: 'photo4.jpg',  month: 4,  title: 'Lazy dinners, easy silence',             caption: 'The kind of quiet that only feels good with you.' },
-    { file: 'photo5.jpg',  month: 5,  title: 'Backseat, golden light, one wink',       caption: 'You never take anything seriously and I love you for it.' },
-    { file: 'photo6.jpg',  month: 6,  title: 'Red dress, whole heart',                 caption: 'You in red is a whole personality trait of mine now.' },
-    { file: 'photo7.jpg',  month: 7,  title: 'Dinner dates and dumb hand signs',       caption: 'Every date night, same trouble, same us.' },
-    { file: 'photo8.jpg',  month: 8,  title: 'Pouty faces, full hearts',               caption: 'We never take a normal photo and I wouldn\u2019t change it.' },
-    { file: 'photo9.jpg',  month: 9,  title: 'Mirror selfies, main characters',        caption: 'Just us, a mirror, and way too much main-character energy.' },
-    { file: 'photo10.jpg', month: 10, title: 'Ten months, one favourite person',       caption: 'Here\u2019s to every month after this one.' },
+    { file: 'images/photo1.jpg',  month: 1,  title: 'Where it started to feel like forever', caption: 'That close, that easy, that us.' },
+    { file: 'images/photo2.jpg',  month: 2,  title: 'Golden hour, wrapped up in you',        caption: 'Your arm around me and the whole sky on fire.' },
+    { file: 'images/photo3.jpg',  month: 3,  title: 'Splashing, sulking, still adorable',     caption: 'A whole pool day and you were still the best part of it.' },
+    { file: 'images/photo4.jpg',  month: 4,  title: 'Lazy dinners, easy silence',             caption: 'The kind of quiet that only feels good with you.' },
+    { file: 'images/photo5.jpg',  month: 5,  title: 'Backseat, golden light, one wink',       caption: 'You never take anything seriously and I love you for it.' },
+    { file: 'images/photo6.jpg',  month: 6,  title: 'Red dress, whole heart',                 caption: 'You in red is a whole personality trait of mine now.' },
+    { file: 'images/photo7.jpg',  month: 7,  title: 'Dinner dates and dumb hand signs',       caption: 'Every date night, same trouble, same us.' },
+    { file: 'images/photo8.jpg',  month: 8,  title: 'Pouty faces, full hearts',               caption: 'We never take a normal photo and I wouldn\u2019t change it.' },
+    { file: 'images/photo9.jpg',  month: 9,  title: 'Mirror selfies, main characters',        caption: 'Just us, a mirror, and way too much main-character energy.' },
+    { file: 'images/photo10.jpg', month: 10, title: 'Ten months, one favourite person',       caption: 'Here\u2019s to every month after this one.' },
   ];
 
   const SITE_URL = 'const SITE_URL = 'https://nikhilamin2.github.io/Bhondu-And-meri-Anniversary/';
